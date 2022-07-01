@@ -1,5 +1,6 @@
 # C++ Programming
 Codes for OOP 
 
-1. Stack
-2. Recursion
+1. Doubly Linked List
+2. Stack
+3. Recursion
